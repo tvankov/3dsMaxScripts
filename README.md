@@ -12,6 +12,6 @@ With the Clear Smoothing Groups script you cad delete all smoothing groups in th
 
 3. Corona Proxy Tool
 
-   ![Corona-Proxies-Tool-3ds-max-script-1](https://github.com/user-attachments/assets/fa372e2b-a5e2-4bc9-951f-09fe49e130f5)
+![Corona-Proxies-Tool-3ds-max-script-1](https://github.com/user-attachments/assets/fa372e2b-a5e2-4bc9-951f-09fe49e130f5)
 
 Corona Proxy Tool will help you to switch easy between ” Solid Bounding Box “, ” Wire Bounding Box “, ” Point Cloud ” and ” Full Mesh “. 
