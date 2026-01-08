@@ -21,3 +21,10 @@ Corona Proxy Tool will help you to switch easy between ‚Äù Solid Bounding Box ‚Ä
 ![Grouper_v1 1](https://github.com/user-attachments/assets/0c0f1ca5-1d42-4878-a070-0fc8401658e9)
 
 The Grouper is a 3ds max script to open an close single or multiple groups in 3ds max. 
+
+5. ID Finder
+
+![ID-3ds-max-Script](https://github.com/user-attachments/assets/8e628206-7d27-4bbd-954d-df32506afad6)
+
+
+With this script you can Find what kind of object and material IDs you have in your scene.
