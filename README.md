@@ -28,3 +28,9 @@ The Grouper is a 3ds max script to open an close single or multiple groups in 3d
 
 
 With this script you can Find what kind of object and material IDs you have in your scene.
+
+6. LOL-Lost Object Layerer
+
+![LOL-Lost-Object-Layerer-3ds-max-script](https://github.com/user-attachments/assets/663959e2-6690-4187-861d-3ad1cb3729ee)
+
+This script move the selected objects in a new layer. 
