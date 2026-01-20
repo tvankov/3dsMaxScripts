@@ -34,3 +34,9 @@ With this script you can Find what kind of object and material IDs you have in y
 ![LOL-Lost-Object-Layerer-3ds-max-script](https://github.com/user-attachments/assets/663959e2-6690-4187-861d-3ad1cb3729ee)
 
 This script move the selected objects in a new layer. 
+
+7. Lock Unlock Tool
+
+![Lock-Tool-3ds-max-script](https://github.com/user-attachments/assets/2f0a63ed-263e-401f-be34-1d2c1860183c)
+
+This script lock and unlock your selection in 3ds max. 
