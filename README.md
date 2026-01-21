@@ -40,3 +40,9 @@ This script move the selected objects in a new layer.
 ![Lock-Tool-3ds-max-script](https://github.com/user-attachments/assets/2f0a63ed-263e-401f-be34-1d2c1860183c)
 
 This script lock and unlock your selection in 3ds max. 
+
+8. MaterialRenamer
+
+![MaterilRenamer-3ds-max-Script](https://github.com/user-attachments/assets/b15c7fb4-b6c2-41de-95b8-a075b4a950ad)
+
+With this “Material Renamer” script, you have the possibility to rename all objects in your 3ds max scene. 
