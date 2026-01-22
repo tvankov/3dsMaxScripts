@@ -19,7 +19,7 @@ A comprehensive collection of productivity-enhancing MaxScript tools for Autodes
 
 ## 🎯 Overview
 
-This repository contains **8 custom MaxScript tools** developed to automate repetitive tasks and enhance productivity in 3ds Max. Each script addresses specific workflow challenges commonly encountered in production environments.
+This repository contains **Custom MaxScript tools** developed to automate repetitive tasks and enhance productivity in 3ds Max. Each script addresses specific workflow challenges commonly encountered in production environments.
 
 **Perfect for:**
 - Architectural Visualization Artists
