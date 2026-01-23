@@ -1,6 +1,6 @@
 # 3ds Max Scripts Collection
 
-A comprehensive collection of productivity-enhancing MaxScript tools for Autodesk 3ds Max. These scripts are designed to streamline common workflows and improve efficiency for 3D artists working on architectural visualization, game development, and animation projects.
+A comprehensive collection of productivity-enhancing MaxScript tools for Autodesk 3ds Max. These scripts are designed to streamline common workflows and improve efficiency for 3D artists working on architectural visualization, game development, and animation projects....
 
 ---
 
