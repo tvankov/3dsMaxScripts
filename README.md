@@ -142,7 +142,7 @@ This repository contains **Custom MaxScript tools** developed to automate repeti
 
 ![MaterilRenamer-3ds-max-Script](https://github.com/user-attachments/assets/b15c7fb4-b6c2-41de-95b8-a075b4a950ad)
 
-**Purpose:** Batch rename materials and objects in your scene.
+**Purpose:** Batch rename materials and objects in your scene!
 
 **Features:**
 - Rename all materials with custom naming conventions
