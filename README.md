@@ -154,6 +154,123 @@ This repository contains **Custom MaxScript tools** developed to automate repeti
 
 ---
 
+
+### 9. Null Objects Cleaner
+
+![Null-Objects-Cleaner-3ds-max-script](https://github.com/user-attachments/assets/450ae4d3-b862-478d-898c-c3632537920d)
+
+**Purpose:** Detect and remove null/empty objects from your scene.
+
+**Features:**
+- Automatically scan for null objects in your scene
+- Display comprehensive list of found null objects
+- Double-click to preview/select individual objects before deletion
+- Detects null objects from Editable Poly, SplineShape, and Line classes
+- Batch delete unwanted null geometry
+- Clean up scene file size
+
+**Use Case:** Essential for scene optimization and cleanup. Remove leftover null objects from import processes, modeling operations, or after deleting mesh content. Helps reduce file size and improve scene performance by eliminating unnecessary empty geometry.
+
+---
+
+### 10. Object Selecter
+
+![Unbenannt11](https://github.com/user-attachments/assets/0388bd40-4f52-49e0-89a7-c3514da3b5e2)
+
+**Purpose:** Select objects based on polygon count thresholds.
+
+**Features:**
+- Filter objects by polygon count (greater than, less than, or equal to specified value)
+- Calculate V-Ray Proxies with ShowMesh option enabled
+- Real-time calculation shows number of matching objects
+- Preview list of found objects
+- Double-click to select individual objects from the list
+- Optimize scene by identifying high-poly objects
+
+**Use Case:** Perfect for LOD (Level of Detail) management, performance optimization, and identifying heavy geometry. Quickly find all high-poly objects that need optimization or locate low-poly placeholders that need detail work. Essential for game asset pipelines and real-time visualization workflows.
+
+---
+
+### 11. PivotToCenterMin
+
+![Pivot-to-center-min-3ds-max-script](https://github.com/user-attachments/assets/81fb7fa9-dc4e-4aaf-9730-fe2132ba3c25)
+
+**Purpose:** Precisely position pivot points at the minimum Z position of objects.
+
+**Features:**
+- Move pivot to minimum Z value (bottom of object)
+- Optional X/Y centering with checkbox control
+- Batch process multiple selected objects
+- Maintain object position while repositioning pivot
+- Perfect for architectural elements and furniture placement
+
+**Use Case:** Invaluable for architectural visualization when placing objects on floors. Automatically position pivot points at the base of furniture, props, or building elements for accurate placement and rotation. Eliminates manual pivot point adjustment for hundreds of assets.
+
+---
+
+### 12. Reset All 3ds Max Materials
+
+![ResetAllmaxMaterials](https://github.com/user-attachments/assets/d0a15ce7-130d-40b9-ba99-12cd04a6cb79)
+
+**Purpose:** Completely remove all materials from selected objects.
+
+**Features:**
+- Strip all materials from selection with one click
+- Batch process multiple objects simultaneously
+- Return objects to default grey material state
+- Clean slate for material reassignment
+- Lightweight scene cleanup
+
+**Use Case:** Perfect for starting fresh with material assignments, cleaning up imported models with unwanted materials, or preparing objects for new material workflows. Essential when repurposing assets or cleaning up messy inherited scenes.
+
+---
+
+### 13. Reset Material Editor
+
+![resetMatEditor_v1 3](https://github.com/user-attachments/assets/0b77cbca-5779-405f-adba-3f6346ffbbdb)
+
+**Purpose:** Reset all material editor slots to default renderer materials.
+
+**Features:**
+- Clear entire material editor with one click
+- Multi-renderer support:
+  - V-Ray materials
+  - Corona materials
+  - Standard materials
+  - Mental Ray materials
+  - FStorm materials
+  - Arnold materials
+- Maintain consistent material editor workflow
+- Quick project reset capability
+
+**Use Case:** Essential for starting new projects with a clean material editor or when switching between renderers. Eliminate material clutter and establish a fresh material library baseline. Perfect for template scene creation and project initialization workflows.
+
+---
+
+### 14. Placer
+
+![Placer-3ds-max-Script](https://github.com/user-attachments/assets/9021f84d-0ef1-405b-a9a9-495617edb99d)
+
+**Purpose:** Interactively place objects on surface geometry with real-time preview.
+
+**Features:**
+- Pick target surface/ground geometry
+- Interactive object placement workflow
+- Optional animation recording during placement
+- Real-time surface snapping
+- Maintain object orientation relative to surface
+- Streamline asset distribution across terrain/surfaces
+
+**Use Case:** Perfect for populating environments with props, vegetation, or architectural elements. Place objects along terrain, building surfaces, or any geometry with precise surface alignment. Essential for landscape design, environment art, and scatter workflows without external plugins. Ideal for organic asset distribution in architectural visualizations.
+
+---
+
+**Updated Repository Stats:**
+- **14 Professional MaxScript Tools**
+- **Covering:** Scene Management, Material Workflows, Object Manipulation, Optimization, and Interactive Placement
+- **Tested on:** 3ds Max 2018-2024
+- **Production-Ready:** Used in real-world architectural visualization and game asset workflows
+
 ## 📦 Installation
 
 ### Method 1: Manual Installation
